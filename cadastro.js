@@ -3,4 +3,8 @@ function singup(email) {
     return (email)
 }
 
-// cadastrando os emails
+function singupdoisnoemail(email) {
+
+    return (email)
+
+// mudando msg no email
